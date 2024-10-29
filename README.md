@@ -18,10 +18,10 @@ Track Sales Trends Over Time: Observe seasonal and annual changes in sales acros
 Optimize Inventory and Strategy: Use data insights to guide inventory decisions, promotional strategies, and market focus.   
 
 **Key Findings**   
-**Profit Margin Variance by State:** High-profit states like Washington and California contrast with lower-margin states such as Texas and Florida, suggesting potential for strategy adjustments in certain regions.  
-**Top Subcategories:** Phones, Chairs, and Storage subcategories lead in sales, while others show varied profitability.  
-**Profitability Insights:** Subcategories like Copiers and Phones yield high profits, while others such as Tables have lower profitability despite significant sales.  
-**Seasonal Sales Patterns:** The line chart of subcategory sales over time shows clear seasonal trends, helping to predict demand cycles.
+**Profit Margin Variance by State:** High-profit states like Washington and California contrast with lower-margin states such as Texas and Florida, suggesting potential for strategy adjustments in certain regions.     
+**Top Subcategories:** Phones, Chairs, and Storage subcategories lead in sales, while others show varied profitability.      
+**Profitability Insights:** Subcategories like Copiers and Phones yield high profits, while others such as Tables have lower profitability despite significant sales.      
+**Seasonal Sales Patterns:** The line chart of subcategory sales over time shows clear seasonal trends, helping to predict demand cycles.   
 **Profit Distribution:** The count of orders by profit bucket highlights that most orders fall around the $0 profit range, suggesting opportunities for pricing and cost management improvements.  
 
 **How to Use the Dashboard**
